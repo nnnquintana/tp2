@@ -1,0 +1,40 @@
+.container img {
+    border-radius: 50px;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+}
+.lista-en-linea {
+    display: flex;
+    list-style-type: none;
+    margin-right: 10px;
+    justify-content: flex-end;
+}
+.lista-en-linea li {
+    margin-right: 50px;
+    float: right;
+}
+.container li a{
+  font-size: 15px;
+  color: rgb(93, 2, 2);
+  text-decoration: none;
+}
+
+.container2 img {
+    max-width: 80%;
+    margin: 40px;
+    border-radius: 20px;
+}
+
+.container3 {
+    margin: 40px;
+    margin-right: 40px;
+}
+
+.containere5 h4 {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+
+}
+
